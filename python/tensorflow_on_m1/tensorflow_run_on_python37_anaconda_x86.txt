@@ -1,0 +1,14 @@
+python: 3.7
+
+> conda create --name tf37 python==3.7
+
+> conda install tensorflow
+
+check import:
+
+> python
+
+>>>import tensorflow as tf
+>>> tf.__version__
+'2.0.0'
+>>> 

@@ -1,0 +1,10 @@
+conda install jupyterlab -y
+conda install notebook -y
+conda install -c conda-forge voila
+
+conda install -c anaconda numpy -y
+conda install scipy -y
+conda install pandas -y
+conda install -c anaconda matplotlib -y
+
+conda install tqdm -y
