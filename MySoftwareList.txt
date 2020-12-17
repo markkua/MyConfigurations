@@ -22,6 +22,7 @@ any connect
 EndNote
 Zoom
 Mathpix
+欧路词典(mac)
 
 
 %%%% System %%%%
