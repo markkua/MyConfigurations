@@ -28,6 +28,7 @@ Mathpix
 %%%% System %%%%
 onedrive
 Baidu Cloud Disk
+% macOS %
 1 Clipboard
 CheatSheets
 
@@ -39,6 +40,7 @@ Skype
 
 %%%% Video Music %%%%
 net ease
+Final cut pro
 LR
 PR
 PS
