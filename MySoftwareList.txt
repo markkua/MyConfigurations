@@ -31,6 +31,9 @@ Baidu Cloud Disk
 % macOS %
 1 Clipboard
 CheatSheets
+App Cleaner & Uninstaller
+CleanMyMacX
+
 
 
 %%%% Communicate %%%%
